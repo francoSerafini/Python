@@ -13,3 +13,5 @@ print(cadena.find('z')) #Devuelve la posicion donde se encutra el caracter. -1 s
 
 print(cadena.index('e')) #Igual que el find pero devuelve una excepcion en caso de no encotrarlo.
 
+
+
