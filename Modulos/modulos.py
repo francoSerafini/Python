@@ -1,5 +1,6 @@
-import modulo_saludar
+import modulo_saludar as saludito #name_space
+from modulo_saludar import *
 
-saludo = modulo_saludar.saludar("Marcos")
+saludo = saludito.saludar("Marcos")
 
 print(saludo)
